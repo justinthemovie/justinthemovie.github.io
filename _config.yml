@@ -1,10 +1,6 @@
 title: Justin The Movie  # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Born a Man Child 
-  <br><br>
- Becomes a Child Man
-  <br><br>
  
   
 theme: jekyll-theme-minimal
