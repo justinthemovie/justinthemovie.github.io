@@ -8,7 +8,7 @@
 <img src="images/goposter.jpg?raw=true"/>
 
 ---
-[Liberty and Justice For All](/pdf/sample_presentation.pdf)
+[Liberty and Justice For All](/pdf/UnspeakableGhost.pdf)
 <img src="images/my_character.svg?raw=true"/>
 
 ---
