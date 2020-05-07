@@ -4,7 +4,7 @@
 
 ### Priorities
 
-[Defeat AlphaGo](/defeating_AlphaGo)
+[Defeat AlphaGo](/defeating_alpha_go)
 <img src="images/goposter.jpg?raw=true"/>
 
 ---
