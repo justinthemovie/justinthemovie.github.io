@@ -12,7 +12,7 @@
 <img src="images/my_character.svg?raw=true"/>
 
 ---
-[Recreate a Masterpiece](http://example.com/)
+[Be the One](https://en.wikipedia.org/wiki/The_Beloved_Cheater)
 <img src="images/lewdcody.png?raw=true"/>
 
 ---
@@ -21,9 +21,7 @@
 
 - [Defeat AlphaGo](http://example.com/)
 - [Liberty and Justice For all](http://example.com/)
-- [Recreate a Masterpiece](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Be the One](http://example.com/)
 
 ---
 
