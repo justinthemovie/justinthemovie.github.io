@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Priorities
 
-[Defeating AlphaGo](/sample_page)
+[Defeat AlphaGo](/sample_page)
 <img src="images/goposter.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Liberty and Justice For All](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,10 +17,10 @@
 
 ---
 
-### Category Name 2
+### Links
 
 - [Defeat AlphaGo](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Liberty and Justice For all](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
