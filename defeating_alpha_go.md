@@ -22,9 +22,9 @@ if (isAwesome){
 
 ### 3. Support
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/swfit_leader.png?raw=true"/>
 
 ### 4. Provide
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Totam rem aperiam.
 
