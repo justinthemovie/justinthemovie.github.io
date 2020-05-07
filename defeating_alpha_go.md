@@ -1,6 +1,6 @@
 ## This can be
 
-**Memorize This:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+**Commit to memory, ensuring no leaks:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
 ### 1. Suggest
 
