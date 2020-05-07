@@ -9,7 +9,7 @@
 
 ---
 [Liberty and Justice For All](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/my_character.svg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
