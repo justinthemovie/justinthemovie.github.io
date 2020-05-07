@@ -17,17 +17,3 @@
 
 ---
 
-### Links
-
-- [Defeat AlphaGo](http://example.com/)
-- [Liberty and Justice For all](http://example.com/)
-- [Be the One](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
